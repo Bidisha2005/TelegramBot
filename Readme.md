@@ -1,4 +1,4 @@
-# 🚀 Daily Progress Tracker Bot
+#  🌟 Progress Companion - Your Daily Journey to Better
 
 > An intelligent Telegram bot that tracks your daily achievements, motivates you, and generates comprehensive progress reports using AI.
 
@@ -308,5 +308,6 @@ npm install
 **⭐ If you find this project useful, please consider giving it a star! ⭐**
 
 Made with ❤️ and ☕
+
 
 </div>

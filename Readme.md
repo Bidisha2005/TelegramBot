@@ -2,6 +2,8 @@
 
 > An intelligent Telegram bot that tracks your daily achievements, motivates you, and generates comprehensive progress reports using AI.
 
+![image alt](https://github.com/Bidisha2005/TelegramBot/blob/main/Telebot.jpeg?raw=true)
+
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-6.0+-brightgreen.svg)](https://www.mongodb.com/)
 [![Telegraf](https://img.shields.io/badge/Telegraf-4.16-blue.svg)](https://telegraf.js.org/)
@@ -311,3 +313,4 @@ Made with ❤️ and ☕
 
 
 </div>
+
